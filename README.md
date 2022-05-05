@@ -1,5 +1,5 @@
 # AlessandroMason.girhub.com
-git clone https://github.com/username/username.github.io
+git clone https://github.com/AlessandroMason/AlessandroMason.github.io
 
 cd username.github.io
 
